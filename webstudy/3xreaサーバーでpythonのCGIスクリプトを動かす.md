@@ -17,7 +17,8 @@ https://www.adminweb.jp/apache/cgi/index2.html
 
 ### 2 test.pyの書き換え
 ```
-print("<head><meta charset="utf-8"></head>")
+print("<meta charset=`utf-8`>")
+print("")
 ```
 ↓
 ```
