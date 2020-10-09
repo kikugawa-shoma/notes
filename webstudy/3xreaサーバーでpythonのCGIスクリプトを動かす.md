@@ -1,4 +1,4 @@
-# xrea サーバーでpythonのCGIスクリプトを動かす。
+# xrea サーバーでpythonのCGIスクリプトを動かす
 ## 必要だった作業
 1. .htaccessの記述
 2. test.pyの書き換え
