@@ -27,7 +27,7 @@ print("User {} desu".format("abc"))
 # > User abc desu
 # > User abc desu
 ```
-# 本題markupsafe.escapeについて
+## 本題markupsafe.escapeについて
 特殊文字をエスケープさせた文字列を生成。
 pythonでhtmlを書く際に多く現れる特殊文字(「<」や「>」など)をいちいち手動でエスケープさせることなくそのまま書いて`escape()`の中に放り込めばよくなる。
 ```py
