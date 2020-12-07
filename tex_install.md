@@ -27,7 +27,7 @@ $pdf_mode = '3';
 ## VScodeでの設定
 1. Latex workshopをインストール
 1. settings.jsonの設定
-```json
+```
 {
     // 生成ファイルを削除するときに対象とするファイル
     // デフォルト値に "*.synctex.gz" を追加
