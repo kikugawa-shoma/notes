@@ -24,6 +24,8 @@ $pdf_mode = '3';
 ```
 ここまでで`latexmk hoge.tex`で日本語を含むファイルがコンパイルできるようになるはず。
 
+参考 : http://wq1.github.io/blog/2015-06-21/
+
 ## VScodeでの設定
 1. Latex workshopをインストール
 1. settings.jsonの設定
